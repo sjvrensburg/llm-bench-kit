@@ -4,8 +4,9 @@ Harnesses that measure a model behind any OpenAI-compatible (mostly llama-server
 Standard library Python unless noted; none of them starts a server. Run them on an **idle
 GPU**: a concurrent request on the same box contaminates every number.
 
-Split out of [halo-prep](https://github.com/sjvrensburg/halo-prep) at commit `5bec25c` on
-2026-10-09. The doc references below are to that repo; that is where results are recorded.
+Split out of halo-prep, the author's private runbook for an AMD Strix Halo box, on
+2026-10-09. The doc references below are to that repo, where the results are recorded;
+they are kept as provenance and are not public.
 
 | Harness | Measures | Run | Results in halo-prep |
 |---|---|---|---|

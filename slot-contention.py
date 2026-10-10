@@ -31,17 +31,17 @@ import threading
 import time
 import urllib.request
 
-REPO = pathlib.Path(__file__).resolve().parent.parent
+KIT = pathlib.Path(__file__).resolve().parent
 
 
 def corpus(chars):
-    # Deterministic filler from the repo's own docs, so both arms prefill identical tokens.
+    # Deterministic filler from the kit's own files, so both arms prefill identical tokens.
     text = ""
-    for p in sorted((REPO / "docs").glob("*.md")):
+    for p in sorted(KIT.glob("*.md")) + sorted(KIT.glob("*.py")):
         text += p.read_text(errors="replace")
         if len(text) >= chars:
-            break
-    return text[:chars]
+            return text[:chars]
+    sys.exit(f"corpus: need {chars} chars of filler, found only {len(text)} in {KIT}")
 
 
 SYSTEM = ("You are a careful assistant on a Linux workstation. Reference material follows; "
