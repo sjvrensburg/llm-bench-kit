@@ -1,0 +1,5 @@
+The model reached an in
+sample R2 of point height
+line on the training set.
+Relationship to R2 on
+test data was weaker

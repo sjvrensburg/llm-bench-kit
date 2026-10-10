@@ -1,0 +1,4 @@
+Label a marks the control  
+group and label b marks  
+the treatment group in this  
+part of the study

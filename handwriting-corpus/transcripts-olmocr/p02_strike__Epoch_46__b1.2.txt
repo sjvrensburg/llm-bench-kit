@@ -1,0 +1,1 @@
+Best model had the lowest R3 score among all Candidates tested. Second best model kept the highest R2 instead.

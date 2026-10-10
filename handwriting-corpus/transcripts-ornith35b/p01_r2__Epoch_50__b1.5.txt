@@ -1,0 +1,5 @@
+The model reached an R
+sample Rf of ppnt/
+nine on the training set.
+Relationship to R2 on held
+out data this weaker

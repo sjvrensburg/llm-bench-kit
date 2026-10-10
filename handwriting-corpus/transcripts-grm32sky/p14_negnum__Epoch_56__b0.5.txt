@@ -1,0 +1,4 @@
+The residual mean was close
+~705~
+within the tolerance band set
+for this experiments

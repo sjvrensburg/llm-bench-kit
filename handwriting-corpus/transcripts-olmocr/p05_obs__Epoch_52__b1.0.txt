@@ -1,0 +1,1 @@
+Nine hundred observations were collected in total. Tenfold validation was applied across the whole set.

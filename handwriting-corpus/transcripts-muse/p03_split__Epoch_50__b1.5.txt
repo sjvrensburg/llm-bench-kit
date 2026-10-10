@@ -1,0 +1,12 @@
+[TRUNCATED-DURING-THINKING, showing reasoning_content]
+Transcribe the text in the attached image of a page, exactly as written. Provide only the word for word transcription and do not correct, normalise, or infer meaning. If any text is struck through, transcribe it anyway and mark it clearly as struck through.
+
+The image shows four wavy lines, no text. Maybe it's a drawing. So transcription is empty? Might be no text. Should output nothing? Possibly the image contains no text. So transcription is empty.
+
+The instruction: Provide only the word for word transcription and do not correct... If any text is struck through...
+
+Probably output nothing or say no text. Might be just blank.
+
+I think answer is empty. Could say [No text visible]. But instruction says provide only the word for word transcription. So maybe just output nothing.
+
+I'll output nothing.

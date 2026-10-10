@@ -1,0 +1,9 @@
+Cross validation used k minin.
+
+One folds for training and
+
+One fold held out. We
+
+tried k equal to five
+
+here

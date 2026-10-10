@@ -1,0 +1,4 @@
+Accuracy ranged from sixty percent
+to eighty percent across the
+folds. Variance was higher on
+Smaller folds

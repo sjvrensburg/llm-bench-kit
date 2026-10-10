@@ -1,0 +1,4 @@
+The residual mean was close
+to zero point one, well
+within the tolerance band set
+for this experimenl

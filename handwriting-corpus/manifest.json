@@ -1,0 +1,1938 @@
+[
+  {
+    "file": "p01_r2__Epoch_46__b0.3.png",
+    "page_id": "p01_r2",
+    "checkpoint": "Epoch_46",
+    "bias": 0.3,
+    "text": "The model reached an in sample R2 of point eight nine on the training set. Relationship to R2 on held out data was weaker.",
+    "checks": [
+      "in",
+      "sample",
+      "R2",
+      "point",
+      "eight",
+      "nine",
+      "training",
+      "Relationship",
+      "held",
+      "out"
+    ],
+    "strike_word": null,
+    "correct_word_line": null
+  },
+  {
+    "file": "p02_strike__Epoch_46__b0.3.png",
+    "page_id": "p02_strike",
+    "checkpoint": "Epoch_46",
+    "bias": 0.3,
+    "text": "Best model had the lowest R3 score among all candidates tested. Second best model kept the highest R2 instead.",
+    "checks": [
+      "lowest",
+      "highest",
+      "R2",
+      "candidates",
+      "Second",
+      "best"
+    ],
+    "strike_word": "R3",
+    "correct_word_line": "highest R2"
+  },
+  {
+    "file": "p03_split__Epoch_46__b0.3.png",
+    "page_id": "p03_split",
+    "checkpoint": "Epoch_46",
+    "bias": 0.3,
+    "text": "Data was split eighty twenty between training and test sets. This ratio was chosen after several trial runs.",
+    "checks": [
+      "eighty",
+      "twenty",
+      "training",
+      "test",
+      "ratio",
+      "trial"
+    ],
+    "strike_word": null,
+    "correct_word_line": null
+  },
+  {
+    "file": "p04_kfold__Epoch_46__b0.3.png",
+    "page_id": "p04_kfold",
+    "checkpoint": "Epoch_46",
+    "bias": 0.3,
+    "text": "Cross validation used k minus one folds for training and one fold held out. We tried k equal to five here.",
+    "checks": [
+      "Cross",
+      "validation",
+      "k",
+      "minus",
+      "one",
+      "folds",
+      "five"
+    ],
+    "strike_word": null,
+    "correct_word_line": null
+  },
+  {
+    "file": "p05_obs__Epoch_46__b0.3.png",
+    "page_id": "p05_obs",
+    "checkpoint": "Epoch_46",
+    "bias": 0.3,
+    "text": "Nine hundred observations were collected in total. Ten fold validation was applied across the whole set.",
+    "checks": [
+      "Nine",
+      "hundred",
+      "observations",
+      "Ten",
+      "fold",
+      "validation"
+    ],
+    "strike_word": null,
+    "correct_word_line": null
+  },
+  {
+    "file": "p06_range__Epoch_46__b0.3.png",
+    "page_id": "p06_range",
+    "checkpoint": "Epoch_46",
+    "bias": 0.3,
+    "text": "Accuracy ranged from sixty percent to eighty percent across the folds. Variance was higher on smaller folds.",
+    "checks": [
+      "Accuracy",
+      "sixty",
+      "percent",
+      "eighty",
+      "Variance",
+      "folds"
+    ],
+    "strike_word": null,
+    "correct_word_line": null
+  },
+  {
+    "file": "p07_serial__Epoch_46__b0.3.png",
+    "page_id": "p07_serial",
+    "checkpoint": "Epoch_46",
+    "bias": 0.3,
+    "text": "Sample serial code QX 77419 BD2 was recorded on row twelve of the log sheet for this run.",
+    "checks": [
+      "QX",
+      "77419",
+      "BD2",
+      "row",
+      "twelve",
+      "log"
+    ],
+    "strike_word": null,
+    "correct_word_line": null
+  },
+  {
+    "file": "p08_labels__Epoch_46__b0.3.png",
+    "page_id": "p08_labels",
+    "checkpoint": "Epoch_46",
+    "bias": 0.3,
+    "text": "Label a marks the control group and label b marks the treatment group in this part of the study.",
+    "checks": [
+      "Label",
+      "control",
+      "group",
+      "treatment",
+      "study"
+    ],
+    "strike_word": null,
+    "correct_word_line": null
+  },
+  {
+    "file": "p09_count__Epoch_46__b0.3.png",
+    "page_id": "p09_count",
+    "checkpoint": "Epoch_46",
+    "bias": 0.3,
+    "text": "Count times n equals seven hundred twenty in the pooled sample across all three sites combined.",
+    "checks": [
+      "Count",
+      "seven",
+      "hundred",
+      "twenty",
+      "pooled",
+      "three",
+      "sites"
+    ],
+    "strike_word": null,
+    "correct_word_line": null
+  },
+  {
+    "file": "p10_typo__Epoch_46__b0.3.png",
+    "page_id": "p10_typo",
+    "checkpoint": "Epoch_46",
+    "bias": 0.3,
+    "text": "Total obsevations after cleaning dropped to eight hundred and fifty from the original nine hundred.",
+    "checks": [
+      "obsevations",
+      "eight",
+      "hundred",
+      "fifty",
+      "nine"
+    ],
+    "strike_word": null,
+    "correct_word_line": null
+  },
+  {
+    "file": "p11_strike2__Epoch_46__b0.3.png",
+    "page_id": "p11_strike2",
+    "checkpoint": "Epoch_46",
+    "bias": 0.3,
+    "text": "Draft result showed a failing grade for this batch. Final result after recount showed a passing grade.",
+    "checks": [
+      "Draft",
+      "Final",
+      "recount",
+      "passing",
+      "grade"
+    ],
+    "strike_word": "failing",
+    "correct_word_line": "passing grade"
+  },
+  {
+    "file": "p12_dates__Epoch_46__b0.3.png",
+    "page_id": "p12_dates",
+    "checkpoint": "Epoch_46",
+    "bias": 0.3,
+    "text": "The pilot ran for six weeks starting the first week of the term and ending just before final exams began.",
+    "checks": [
+      "pilot",
+      "six",
+      "weeks",
+      "term",
+      "final",
+      "exams"
+    ],
+    "strike_word": null,
+    "correct_word_line": null
+  },
+  {
+    "file": "p13_ratio__Epoch_46__b0.3.png",
+    "page_id": "p13_ratio",
+    "checkpoint": "Epoch_46",
+    "bias": 0.3,
+    "text": "Roughly one in four samples failed the quality check on the second pass through the pipeline.",
+    "checks": [
+      "Roughly",
+      "one",
+      "four",
+      "failed",
+      "quality",
+      "second",
+      "pipeline"
+    ],
+    "strike_word": null,
+    "correct_word_line": null
+  },
+  {
+    "file": "p14_negnum__Epoch_46__b0.3.png",
+    "page_id": "p14_negnum",
+    "checkpoint": "Epoch_46",
+    "bias": 0.3,
+    "text": "The residual mean was close to zero point one, well within the tolerance band set for this experiment.",
+    "checks": [
+      "residual",
+      "mean",
+      "zero",
+      "point",
+      "one",
+      "tolerance"
+    ],
+    "strike_word": null,
+    "correct_word_line": null
+  },
+  {
+    "file": "p01_r2__Epoch_46__b1.2.png",
+    "page_id": "p01_r2",
+    "checkpoint": "Epoch_46",
+    "bias": 1.2,
+    "text": "The model reached an in sample R2 of point eight nine on the training set. Relationship to R2 on held out data was weaker.",
+    "checks": [
+      "in",
+      "sample",
+      "R2",
+      "point",
+      "eight",
+      "nine",
+      "training",
+      "Relationship",
+      "held",
+      "out"
+    ],
+    "strike_word": null,
+    "correct_word_line": null
+  },
+  {
+    "file": "p02_strike__Epoch_46__b1.2.png",
+    "page_id": "p02_strike",
+    "checkpoint": "Epoch_46",
+    "bias": 1.2,
+    "text": "Best model had the lowest R3 score among all candidates tested. Second best model kept the highest R2 instead.",
+    "checks": [
+      "lowest",
+      "highest",
+      "R2",
+      "candidates",
+      "Second",
+      "best"
+    ],
+    "strike_word": "R3",
+    "correct_word_line": "highest R2"
+  },
+  {
+    "file": "p03_split__Epoch_46__b1.2.png",
+    "page_id": "p03_split",
+    "checkpoint": "Epoch_46",
+    "bias": 1.2,
+    "text": "Data was split eighty twenty between training and test sets. This ratio was chosen after several trial runs.",
+    "checks": [
+      "eighty",
+      "twenty",
+      "training",
+      "test",
+      "ratio",
+      "trial"
+    ],
+    "strike_word": null,
+    "correct_word_line": null
+  },
+  {
+    "file": "p04_kfold__Epoch_46__b1.2.png",
+    "page_id": "p04_kfold",
+    "checkpoint": "Epoch_46",
+    "bias": 1.2,
+    "text": "Cross validation used k minus one folds for training and one fold held out. We tried k equal to five here.",
+    "checks": [
+      "Cross",
+      "validation",
+      "k",
+      "minus",
+      "one",
+      "folds",
+      "five"
+    ],
+    "strike_word": null,
+    "correct_word_line": null
+  },
+  {
+    "file": "p05_obs__Epoch_46__b1.2.png",
+    "page_id": "p05_obs",
+    "checkpoint": "Epoch_46",
+    "bias": 1.2,
+    "text": "Nine hundred observations were collected in total. Ten fold validation was applied across the whole set.",
+    "checks": [
+      "Nine",
+      "hundred",
+      "observations",
+      "Ten",
+      "fold",
+      "validation"
+    ],
+    "strike_word": null,
+    "correct_word_line": null
+  },
+  {
+    "file": "p06_range__Epoch_46__b1.2.png",
+    "page_id": "p06_range",
+    "checkpoint": "Epoch_46",
+    "bias": 1.2,
+    "text": "Accuracy ranged from sixty percent to eighty percent across the folds. Variance was higher on smaller folds.",
+    "checks": [
+      "Accuracy",
+      "sixty",
+      "percent",
+      "eighty",
+      "Variance",
+      "folds"
+    ],
+    "strike_word": null,
+    "correct_word_line": null
+  },
+  {
+    "file": "p07_serial__Epoch_46__b1.2.png",
+    "page_id": "p07_serial",
+    "checkpoint": "Epoch_46",
+    "bias": 1.2,
+    "text": "Sample serial code QX 77419 BD2 was recorded on row twelve of the log sheet for this run.",
+    "checks": [
+      "QX",
+      "77419",
+      "BD2",
+      "row",
+      "twelve",
+      "log"
+    ],
+    "strike_word": null,
+    "correct_word_line": null
+  },
+  {
+    "file": "p08_labels__Epoch_46__b1.2.png",
+    "page_id": "p08_labels",
+    "checkpoint": "Epoch_46",
+    "bias": 1.2,
+    "text": "Label a marks the control group and label b marks the treatment group in this part of the study.",
+    "checks": [
+      "Label",
+      "control",
+      "group",
+      "treatment",
+      "study"
+    ],
+    "strike_word": null,
+    "correct_word_line": null
+  },
+  {
+    "file": "p09_count__Epoch_46__b1.2.png",
+    "page_id": "p09_count",
+    "checkpoint": "Epoch_46",
+    "bias": 1.2,
+    "text": "Count times n equals seven hundred twenty in the pooled sample across all three sites combined.",
+    "checks": [
+      "Count",
+      "seven",
+      "hundred",
+      "twenty",
+      "pooled",
+      "three",
+      "sites"
+    ],
+    "strike_word": null,
+    "correct_word_line": null
+  },
+  {
+    "file": "p10_typo__Epoch_46__b1.2.png",
+    "page_id": "p10_typo",
+    "checkpoint": "Epoch_46",
+    "bias": 1.2,
+    "text": "Total obsevations after cleaning dropped to eight hundred and fifty from the original nine hundred.",
+    "checks": [
+      "obsevations",
+      "eight",
+      "hundred",
+      "fifty",
+      "nine"
+    ],
+    "strike_word": null,
+    "correct_word_line": null
+  },
+  {
+    "file": "p11_strike2__Epoch_46__b1.2.png",
+    "page_id": "p11_strike2",
+    "checkpoint": "Epoch_46",
+    "bias": 1.2,
+    "text": "Draft result showed a failing grade for this batch. Final result after recount showed a passing grade.",
+    "checks": [
+      "Draft",
+      "Final",
+      "recount",
+      "passing",
+      "grade"
+    ],
+    "strike_word": "failing",
+    "correct_word_line": "passing grade"
+  },
+  {
+    "file": "p12_dates__Epoch_46__b1.2.png",
+    "page_id": "p12_dates",
+    "checkpoint": "Epoch_46",
+    "bias": 1.2,
+    "text": "The pilot ran for six weeks starting the first week of the term and ending just before final exams began.",
+    "checks": [
+      "pilot",
+      "six",
+      "weeks",
+      "term",
+      "final",
+      "exams"
+    ],
+    "strike_word": null,
+    "correct_word_line": null
+  },
+  {
+    "file": "p13_ratio__Epoch_46__b1.2.png",
+    "page_id": "p13_ratio",
+    "checkpoint": "Epoch_46",
+    "bias": 1.2,
+    "text": "Roughly one in four samples failed the quality check on the second pass through the pipeline.",
+    "checks": [
+      "Roughly",
+      "one",
+      "four",
+      "failed",
+      "quality",
+      "second",
+      "pipeline"
+    ],
+    "strike_word": null,
+    "correct_word_line": null
+  },
+  {
+    "file": "p14_negnum__Epoch_46__b1.2.png",
+    "page_id": "p14_negnum",
+    "checkpoint": "Epoch_46",
+    "bias": 1.2,
+    "text": "The residual mean was close to zero point one, well within the tolerance band set for this experiment.",
+    "checks": [
+      "residual",
+      "mean",
+      "zero",
+      "point",
+      "one",
+      "tolerance"
+    ],
+    "strike_word": null,
+    "correct_word_line": null
+  },
+  {
+    "file": "p01_r2__Epoch_50__b0.5.png",
+    "page_id": "p01_r2",
+    "checkpoint": "Epoch_50",
+    "bias": 0.5,
+    "text": "The model reached an in sample R2 of point eight nine on the training set. Relationship to R2 on held out data was weaker.",
+    "checks": [
+      "in",
+      "sample",
+      "R2",
+      "point",
+      "eight",
+      "nine",
+      "training",
+      "Relationship",
+      "held",
+      "out"
+    ],
+    "strike_word": null,
+    "correct_word_line": null
+  },
+  {
+    "file": "p02_strike__Epoch_50__b0.5.png",
+    "page_id": "p02_strike",
+    "checkpoint": "Epoch_50",
+    "bias": 0.5,
+    "text": "Best model had the lowest R3 score among all candidates tested. Second best model kept the highest R2 instead.",
+    "checks": [
+      "lowest",
+      "highest",
+      "R2",
+      "candidates",
+      "Second",
+      "best"
+    ],
+    "strike_word": "R3",
+    "correct_word_line": "highest R2"
+  },
+  {
+    "file": "p03_split__Epoch_50__b0.5.png",
+    "page_id": "p03_split",
+    "checkpoint": "Epoch_50",
+    "bias": 0.5,
+    "text": "Data was split eighty twenty between training and test sets. This ratio was chosen after several trial runs.",
+    "checks": [
+      "eighty",
+      "twenty",
+      "training",
+      "test",
+      "ratio",
+      "trial"
+    ],
+    "strike_word": null,
+    "correct_word_line": null
+  },
+  {
+    "file": "p04_kfold__Epoch_50__b0.5.png",
+    "page_id": "p04_kfold",
+    "checkpoint": "Epoch_50",
+    "bias": 0.5,
+    "text": "Cross validation used k minus one folds for training and one fold held out. We tried k equal to five here.",
+    "checks": [
+      "Cross",
+      "validation",
+      "k",
+      "minus",
+      "one",
+      "folds",
+      "five"
+    ],
+    "strike_word": null,
+    "correct_word_line": null
+  },
+  {
+    "file": "p05_obs__Epoch_50__b0.5.png",
+    "page_id": "p05_obs",
+    "checkpoint": "Epoch_50",
+    "bias": 0.5,
+    "text": "Nine hundred observations were collected in total. Ten fold validation was applied across the whole set.",
+    "checks": [
+      "Nine",
+      "hundred",
+      "observations",
+      "Ten",
+      "fold",
+      "validation"
+    ],
+    "strike_word": null,
+    "correct_word_line": null
+  },
+  {
+    "file": "p06_range__Epoch_50__b0.5.png",
+    "page_id": "p06_range",
+    "checkpoint": "Epoch_50",
+    "bias": 0.5,
+    "text": "Accuracy ranged from sixty percent to eighty percent across the folds. Variance was higher on smaller folds.",
+    "checks": [
+      "Accuracy",
+      "sixty",
+      "percent",
+      "eighty",
+      "Variance",
+      "folds"
+    ],
+    "strike_word": null,
+    "correct_word_line": null
+  },
+  {
+    "file": "p07_serial__Epoch_50__b0.5.png",
+    "page_id": "p07_serial",
+    "checkpoint": "Epoch_50",
+    "bias": 0.5,
+    "text": "Sample serial code QX 77419 BD2 was recorded on row twelve of the log sheet for this run.",
+    "checks": [
+      "QX",
+      "77419",
+      "BD2",
+      "row",
+      "twelve",
+      "log"
+    ],
+    "strike_word": null,
+    "correct_word_line": null
+  },
+  {
+    "file": "p08_labels__Epoch_50__b0.5.png",
+    "page_id": "p08_labels",
+    "checkpoint": "Epoch_50",
+    "bias": 0.5,
+    "text": "Label a marks the control group and label b marks the treatment group in this part of the study.",
+    "checks": [
+      "Label",
+      "control",
+      "group",
+      "treatment",
+      "study"
+    ],
+    "strike_word": null,
+    "correct_word_line": null
+  },
+  {
+    "file": "p09_count__Epoch_50__b0.5.png",
+    "page_id": "p09_count",
+    "checkpoint": "Epoch_50",
+    "bias": 0.5,
+    "text": "Count times n equals seven hundred twenty in the pooled sample across all three sites combined.",
+    "checks": [
+      "Count",
+      "seven",
+      "hundred",
+      "twenty",
+      "pooled",
+      "three",
+      "sites"
+    ],
+    "strike_word": null,
+    "correct_word_line": null
+  },
+  {
+    "file": "p10_typo__Epoch_50__b0.5.png",
+    "page_id": "p10_typo",
+    "checkpoint": "Epoch_50",
+    "bias": 0.5,
+    "text": "Total obsevations after cleaning dropped to eight hundred and fifty from the original nine hundred.",
+    "checks": [
+      "obsevations",
+      "eight",
+      "hundred",
+      "fifty",
+      "nine"
+    ],
+    "strike_word": null,
+    "correct_word_line": null
+  },
+  {
+    "file": "p11_strike2__Epoch_50__b0.5.png",
+    "page_id": "p11_strike2",
+    "checkpoint": "Epoch_50",
+    "bias": 0.5,
+    "text": "Draft result showed a failing grade for this batch. Final result after recount showed a passing grade.",
+    "checks": [
+      "Draft",
+      "Final",
+      "recount",
+      "passing",
+      "grade"
+    ],
+    "strike_word": "failing",
+    "correct_word_line": "passing grade"
+  },
+  {
+    "file": "p12_dates__Epoch_50__b0.5.png",
+    "page_id": "p12_dates",
+    "checkpoint": "Epoch_50",
+    "bias": 0.5,
+    "text": "The pilot ran for six weeks starting the first week of the term and ending just before final exams began.",
+    "checks": [
+      "pilot",
+      "six",
+      "weeks",
+      "term",
+      "final",
+      "exams"
+    ],
+    "strike_word": null,
+    "correct_word_line": null
+  },
+  {
+    "file": "p13_ratio__Epoch_50__b0.5.png",
+    "page_id": "p13_ratio",
+    "checkpoint": "Epoch_50",
+    "bias": 0.5,
+    "text": "Roughly one in four samples failed the quality check on the second pass through the pipeline.",
+    "checks": [
+      "Roughly",
+      "one",
+      "four",
+      "failed",
+      "quality",
+      "second",
+      "pipeline"
+    ],
+    "strike_word": null,
+    "correct_word_line": null
+  },
+  {
+    "file": "p14_negnum__Epoch_50__b0.5.png",
+    "page_id": "p14_negnum",
+    "checkpoint": "Epoch_50",
+    "bias": 0.5,
+    "text": "The residual mean was close to zero point one, well within the tolerance band set for this experiment.",
+    "checks": [
+      "residual",
+      "mean",
+      "zero",
+      "point",
+      "one",
+      "tolerance"
+    ],
+    "strike_word": null,
+    "correct_word_line": null
+  },
+  {
+    "file": "p01_r2__Epoch_50__b1.5.png",
+    "page_id": "p01_r2",
+    "checkpoint": "Epoch_50",
+    "bias": 1.5,
+    "text": "The model reached an in sample R2 of point eight nine on the training set. Relationship to R2 on held out data was weaker.",
+    "checks": [
+      "in",
+      "sample",
+      "R2",
+      "point",
+      "eight",
+      "nine",
+      "training",
+      "Relationship",
+      "held",
+      "out"
+    ],
+    "strike_word": null,
+    "correct_word_line": null
+  },
+  {
+    "file": "p02_strike__Epoch_50__b1.5.png",
+    "page_id": "p02_strike",
+    "checkpoint": "Epoch_50",
+    "bias": 1.5,
+    "text": "Best model had the lowest R3 score among all candidates tested. Second best model kept the highest R2 instead.",
+    "checks": [
+      "lowest",
+      "highest",
+      "R2",
+      "candidates",
+      "Second",
+      "best"
+    ],
+    "strike_word": "R3",
+    "correct_word_line": "highest R2"
+  },
+  {
+    "file": "p03_split__Epoch_50__b1.5.png",
+    "page_id": "p03_split",
+    "checkpoint": "Epoch_50",
+    "bias": 1.5,
+    "text": "Data was split eighty twenty between training and test sets. This ratio was chosen after several trial runs.",
+    "checks": [
+      "eighty",
+      "twenty",
+      "training",
+      "test",
+      "ratio",
+      "trial"
+    ],
+    "strike_word": null,
+    "correct_word_line": null
+  },
+  {
+    "file": "p04_kfold__Epoch_50__b1.5.png",
+    "page_id": "p04_kfold",
+    "checkpoint": "Epoch_50",
+    "bias": 1.5,
+    "text": "Cross validation used k minus one folds for training and one fold held out. We tried k equal to five here.",
+    "checks": [
+      "Cross",
+      "validation",
+      "k",
+      "minus",
+      "one",
+      "folds",
+      "five"
+    ],
+    "strike_word": null,
+    "correct_word_line": null
+  },
+  {
+    "file": "p05_obs__Epoch_50__b1.5.png",
+    "page_id": "p05_obs",
+    "checkpoint": "Epoch_50",
+    "bias": 1.5,
+    "text": "Nine hundred observations were collected in total. Ten fold validation was applied across the whole set.",
+    "checks": [
+      "Nine",
+      "hundred",
+      "observations",
+      "Ten",
+      "fold",
+      "validation"
+    ],
+    "strike_word": null,
+    "correct_word_line": null
+  },
+  {
+    "file": "p06_range__Epoch_50__b1.5.png",
+    "page_id": "p06_range",
+    "checkpoint": "Epoch_50",
+    "bias": 1.5,
+    "text": "Accuracy ranged from sixty percent to eighty percent across the folds. Variance was higher on smaller folds.",
+    "checks": [
+      "Accuracy",
+      "sixty",
+      "percent",
+      "eighty",
+      "Variance",
+      "folds"
+    ],
+    "strike_word": null,
+    "correct_word_line": null
+  },
+  {
+    "file": "p07_serial__Epoch_50__b1.5.png",
+    "page_id": "p07_serial",
+    "checkpoint": "Epoch_50",
+    "bias": 1.5,
+    "text": "Sample serial code QX 77419 BD2 was recorded on row twelve of the log sheet for this run.",
+    "checks": [
+      "QX",
+      "77419",
+      "BD2",
+      "row",
+      "twelve",
+      "log"
+    ],
+    "strike_word": null,
+    "correct_word_line": null
+  },
+  {
+    "file": "p08_labels__Epoch_50__b1.5.png",
+    "page_id": "p08_labels",
+    "checkpoint": "Epoch_50",
+    "bias": 1.5,
+    "text": "Label a marks the control group and label b marks the treatment group in this part of the study.",
+    "checks": [
+      "Label",
+      "control",
+      "group",
+      "treatment",
+      "study"
+    ],
+    "strike_word": null,
+    "correct_word_line": null
+  },
+  {
+    "file": "p09_count__Epoch_50__b1.5.png",
+    "page_id": "p09_count",
+    "checkpoint": "Epoch_50",
+    "bias": 1.5,
+    "text": "Count times n equals seven hundred twenty in the pooled sample across all three sites combined.",
+    "checks": [
+      "Count",
+      "seven",
+      "hundred",
+      "twenty",
+      "pooled",
+      "three",
+      "sites"
+    ],
+    "strike_word": null,
+    "correct_word_line": null
+  },
+  {
+    "file": "p10_typo__Epoch_50__b1.5.png",
+    "page_id": "p10_typo",
+    "checkpoint": "Epoch_50",
+    "bias": 1.5,
+    "text": "Total obsevations after cleaning dropped to eight hundred and fifty from the original nine hundred.",
+    "checks": [
+      "obsevations",
+      "eight",
+      "hundred",
+      "fifty",
+      "nine"
+    ],
+    "strike_word": null,
+    "correct_word_line": null
+  },
+  {
+    "file": "p11_strike2__Epoch_50__b1.5.png",
+    "page_id": "p11_strike2",
+    "checkpoint": "Epoch_50",
+    "bias": 1.5,
+    "text": "Draft result showed a failing grade for this batch. Final result after recount showed a passing grade.",
+    "checks": [
+      "Draft",
+      "Final",
+      "recount",
+      "passing",
+      "grade"
+    ],
+    "strike_word": "failing",
+    "correct_word_line": "passing grade"
+  },
+  {
+    "file": "p12_dates__Epoch_50__b1.5.png",
+    "page_id": "p12_dates",
+    "checkpoint": "Epoch_50",
+    "bias": 1.5,
+    "text": "The pilot ran for six weeks starting the first week of the term and ending just before final exams began.",
+    "checks": [
+      "pilot",
+      "six",
+      "weeks",
+      "term",
+      "final",
+      "exams"
+    ],
+    "strike_word": null,
+    "correct_word_line": null
+  },
+  {
+    "file": "p13_ratio__Epoch_50__b1.5.png",
+    "page_id": "p13_ratio",
+    "checkpoint": "Epoch_50",
+    "bias": 1.5,
+    "text": "Roughly one in four samples failed the quality check on the second pass through the pipeline.",
+    "checks": [
+      "Roughly",
+      "one",
+      "four",
+      "failed",
+      "quality",
+      "second",
+      "pipeline"
+    ],
+    "strike_word": null,
+    "correct_word_line": null
+  },
+  {
+    "file": "p14_negnum__Epoch_50__b1.5.png",
+    "page_id": "p14_negnum",
+    "checkpoint": "Epoch_50",
+    "bias": 1.5,
+    "text": "The residual mean was close to zero point one, well within the tolerance band set for this experiment.",
+    "checks": [
+      "residual",
+      "mean",
+      "zero",
+      "point",
+      "one",
+      "tolerance"
+    ],
+    "strike_word": null,
+    "correct_word_line": null
+  },
+  {
+    "file": "p01_r2__Epoch_52__b0.3.png",
+    "page_id": "p01_r2",
+    "checkpoint": "Epoch_52",
+    "bias": 0.3,
+    "text": "The model reached an in sample R2 of point eight nine on the training set. Relationship to R2 on held out data was weaker.",
+    "checks": [
+      "in",
+      "sample",
+      "R2",
+      "point",
+      "eight",
+      "nine",
+      "training",
+      "Relationship",
+      "held",
+      "out"
+    ],
+    "strike_word": null,
+    "correct_word_line": null
+  },
+  {
+    "file": "p02_strike__Epoch_52__b0.3.png",
+    "page_id": "p02_strike",
+    "checkpoint": "Epoch_52",
+    "bias": 0.3,
+    "text": "Best model had the lowest R3 score among all candidates tested. Second best model kept the highest R2 instead.",
+    "checks": [
+      "lowest",
+      "highest",
+      "R2",
+      "candidates",
+      "Second",
+      "best"
+    ],
+    "strike_word": "R3",
+    "correct_word_line": "highest R2"
+  },
+  {
+    "file": "p03_split__Epoch_52__b0.3.png",
+    "page_id": "p03_split",
+    "checkpoint": "Epoch_52",
+    "bias": 0.3,
+    "text": "Data was split eighty twenty between training and test sets. This ratio was chosen after several trial runs.",
+    "checks": [
+      "eighty",
+      "twenty",
+      "training",
+      "test",
+      "ratio",
+      "trial"
+    ],
+    "strike_word": null,
+    "correct_word_line": null
+  },
+  {
+    "file": "p04_kfold__Epoch_52__b0.3.png",
+    "page_id": "p04_kfold",
+    "checkpoint": "Epoch_52",
+    "bias": 0.3,
+    "text": "Cross validation used k minus one folds for training and one fold held out. We tried k equal to five here.",
+    "checks": [
+      "Cross",
+      "validation",
+      "k",
+      "minus",
+      "one",
+      "folds",
+      "five"
+    ],
+    "strike_word": null,
+    "correct_word_line": null
+  },
+  {
+    "file": "p05_obs__Epoch_52__b0.3.png",
+    "page_id": "p05_obs",
+    "checkpoint": "Epoch_52",
+    "bias": 0.3,
+    "text": "Nine hundred observations were collected in total. Ten fold validation was applied across the whole set.",
+    "checks": [
+      "Nine",
+      "hundred",
+      "observations",
+      "Ten",
+      "fold",
+      "validation"
+    ],
+    "strike_word": null,
+    "correct_word_line": null
+  },
+  {
+    "file": "p06_range__Epoch_52__b0.3.png",
+    "page_id": "p06_range",
+    "checkpoint": "Epoch_52",
+    "bias": 0.3,
+    "text": "Accuracy ranged from sixty percent to eighty percent across the folds. Variance was higher on smaller folds.",
+    "checks": [
+      "Accuracy",
+      "sixty",
+      "percent",
+      "eighty",
+      "Variance",
+      "folds"
+    ],
+    "strike_word": null,
+    "correct_word_line": null
+  },
+  {
+    "file": "p07_serial__Epoch_52__b0.3.png",
+    "page_id": "p07_serial",
+    "checkpoint": "Epoch_52",
+    "bias": 0.3,
+    "text": "Sample serial code QX 77419 BD2 was recorded on row twelve of the log sheet for this run.",
+    "checks": [
+      "QX",
+      "77419",
+      "BD2",
+      "row",
+      "twelve",
+      "log"
+    ],
+    "strike_word": null,
+    "correct_word_line": null
+  },
+  {
+    "file": "p08_labels__Epoch_52__b0.3.png",
+    "page_id": "p08_labels",
+    "checkpoint": "Epoch_52",
+    "bias": 0.3,
+    "text": "Label a marks the control group and label b marks the treatment group in this part of the study.",
+    "checks": [
+      "Label",
+      "control",
+      "group",
+      "treatment",
+      "study"
+    ],
+    "strike_word": null,
+    "correct_word_line": null
+  },
+  {
+    "file": "p09_count__Epoch_52__b0.3.png",
+    "page_id": "p09_count",
+    "checkpoint": "Epoch_52",
+    "bias": 0.3,
+    "text": "Count times n equals seven hundred twenty in the pooled sample across all three sites combined.",
+    "checks": [
+      "Count",
+      "seven",
+      "hundred",
+      "twenty",
+      "pooled",
+      "three",
+      "sites"
+    ],
+    "strike_word": null,
+    "correct_word_line": null
+  },
+  {
+    "file": "p10_typo__Epoch_52__b0.3.png",
+    "page_id": "p10_typo",
+    "checkpoint": "Epoch_52",
+    "bias": 0.3,
+    "text": "Total obsevations after cleaning dropped to eight hundred and fifty from the original nine hundred.",
+    "checks": [
+      "obsevations",
+      "eight",
+      "hundred",
+      "fifty",
+      "nine"
+    ],
+    "strike_word": null,
+    "correct_word_line": null
+  },
+  {
+    "file": "p11_strike2__Epoch_52__b0.3.png",
+    "page_id": "p11_strike2",
+    "checkpoint": "Epoch_52",
+    "bias": 0.3,
+    "text": "Draft result showed a failing grade for this batch. Final result after recount showed a passing grade.",
+    "checks": [
+      "Draft",
+      "Final",
+      "recount",
+      "passing",
+      "grade"
+    ],
+    "strike_word": "failing",
+    "correct_word_line": "passing grade"
+  },
+  {
+    "file": "p12_dates__Epoch_52__b0.3.png",
+    "page_id": "p12_dates",
+    "checkpoint": "Epoch_52",
+    "bias": 0.3,
+    "text": "The pilot ran for six weeks starting the first week of the term and ending just before final exams began.",
+    "checks": [
+      "pilot",
+      "six",
+      "weeks",
+      "term",
+      "final",
+      "exams"
+    ],
+    "strike_word": null,
+    "correct_word_line": null
+  },
+  {
+    "file": "p13_ratio__Epoch_52__b0.3.png",
+    "page_id": "p13_ratio",
+    "checkpoint": "Epoch_52",
+    "bias": 0.3,
+    "text": "Roughly one in four samples failed the quality check on the second pass through the pipeline.",
+    "checks": [
+      "Roughly",
+      "one",
+      "four",
+      "failed",
+      "quality",
+      "second",
+      "pipeline"
+    ],
+    "strike_word": null,
+    "correct_word_line": null
+  },
+  {
+    "file": "p14_negnum__Epoch_52__b0.3.png",
+    "page_id": "p14_negnum",
+    "checkpoint": "Epoch_52",
+    "bias": 0.3,
+    "text": "The residual mean was close to zero point one, well within the tolerance band set for this experiment.",
+    "checks": [
+      "residual",
+      "mean",
+      "zero",
+      "point",
+      "one",
+      "tolerance"
+    ],
+    "strike_word": null,
+    "correct_word_line": null
+  },
+  {
+    "file": "p01_r2__Epoch_52__b1.0.png",
+    "page_id": "p01_r2",
+    "checkpoint": "Epoch_52",
+    "bias": 1.0,
+    "text": "The model reached an in sample R2 of point eight nine on the training set. Relationship to R2 on held out data was weaker.",
+    "checks": [
+      "in",
+      "sample",
+      "R2",
+      "point",
+      "eight",
+      "nine",
+      "training",
+      "Relationship",
+      "held",
+      "out"
+    ],
+    "strike_word": null,
+    "correct_word_line": null
+  },
+  {
+    "file": "p02_strike__Epoch_52__b1.0.png",
+    "page_id": "p02_strike",
+    "checkpoint": "Epoch_52",
+    "bias": 1.0,
+    "text": "Best model had the lowest R3 score among all candidates tested. Second best model kept the highest R2 instead.",
+    "checks": [
+      "lowest",
+      "highest",
+      "R2",
+      "candidates",
+      "Second",
+      "best"
+    ],
+    "strike_word": "R3",
+    "correct_word_line": "highest R2"
+  },
+  {
+    "file": "p03_split__Epoch_52__b1.0.png",
+    "page_id": "p03_split",
+    "checkpoint": "Epoch_52",
+    "bias": 1.0,
+    "text": "Data was split eighty twenty between training and test sets. This ratio was chosen after several trial runs.",
+    "checks": [
+      "eighty",
+      "twenty",
+      "training",
+      "test",
+      "ratio",
+      "trial"
+    ],
+    "strike_word": null,
+    "correct_word_line": null
+  },
+  {
+    "file": "p04_kfold__Epoch_52__b1.0.png",
+    "page_id": "p04_kfold",
+    "checkpoint": "Epoch_52",
+    "bias": 1.0,
+    "text": "Cross validation used k minus one folds for training and one fold held out. We tried k equal to five here.",
+    "checks": [
+      "Cross",
+      "validation",
+      "k",
+      "minus",
+      "one",
+      "folds",
+      "five"
+    ],
+    "strike_word": null,
+    "correct_word_line": null
+  },
+  {
+    "file": "p05_obs__Epoch_52__b1.0.png",
+    "page_id": "p05_obs",
+    "checkpoint": "Epoch_52",
+    "bias": 1.0,
+    "text": "Nine hundred observations were collected in total. Ten fold validation was applied across the whole set.",
+    "checks": [
+      "Nine",
+      "hundred",
+      "observations",
+      "Ten",
+      "fold",
+      "validation"
+    ],
+    "strike_word": null,
+    "correct_word_line": null
+  },
+  {
+    "file": "p06_range__Epoch_52__b1.0.png",
+    "page_id": "p06_range",
+    "checkpoint": "Epoch_52",
+    "bias": 1.0,
+    "text": "Accuracy ranged from sixty percent to eighty percent across the folds. Variance was higher on smaller folds.",
+    "checks": [
+      "Accuracy",
+      "sixty",
+      "percent",
+      "eighty",
+      "Variance",
+      "folds"
+    ],
+    "strike_word": null,
+    "correct_word_line": null
+  },
+  {
+    "file": "p07_serial__Epoch_52__b1.0.png",
+    "page_id": "p07_serial",
+    "checkpoint": "Epoch_52",
+    "bias": 1.0,
+    "text": "Sample serial code QX 77419 BD2 was recorded on row twelve of the log sheet for this run.",
+    "checks": [
+      "QX",
+      "77419",
+      "BD2",
+      "row",
+      "twelve",
+      "log"
+    ],
+    "strike_word": null,
+    "correct_word_line": null
+  },
+  {
+    "file": "p08_labels__Epoch_52__b1.0.png",
+    "page_id": "p08_labels",
+    "checkpoint": "Epoch_52",
+    "bias": 1.0,
+    "text": "Label a marks the control group and label b marks the treatment group in this part of the study.",
+    "checks": [
+      "Label",
+      "control",
+      "group",
+      "treatment",
+      "study"
+    ],
+    "strike_word": null,
+    "correct_word_line": null
+  },
+  {
+    "file": "p09_count__Epoch_52__b1.0.png",
+    "page_id": "p09_count",
+    "checkpoint": "Epoch_52",
+    "bias": 1.0,
+    "text": "Count times n equals seven hundred twenty in the pooled sample across all three sites combined.",
+    "checks": [
+      "Count",
+      "seven",
+      "hundred",
+      "twenty",
+      "pooled",
+      "three",
+      "sites"
+    ],
+    "strike_word": null,
+    "correct_word_line": null
+  },
+  {
+    "file": "p10_typo__Epoch_52__b1.0.png",
+    "page_id": "p10_typo",
+    "checkpoint": "Epoch_52",
+    "bias": 1.0,
+    "text": "Total obsevations after cleaning dropped to eight hundred and fifty from the original nine hundred.",
+    "checks": [
+      "obsevations",
+      "eight",
+      "hundred",
+      "fifty",
+      "nine"
+    ],
+    "strike_word": null,
+    "correct_word_line": null
+  },
+  {
+    "file": "p11_strike2__Epoch_52__b1.0.png",
+    "page_id": "p11_strike2",
+    "checkpoint": "Epoch_52",
+    "bias": 1.0,
+    "text": "Draft result showed a failing grade for this batch. Final result after recount showed a passing grade.",
+    "checks": [
+      "Draft",
+      "Final",
+      "recount",
+      "passing",
+      "grade"
+    ],
+    "strike_word": "failing",
+    "correct_word_line": "passing grade"
+  },
+  {
+    "file": "p12_dates__Epoch_52__b1.0.png",
+    "page_id": "p12_dates",
+    "checkpoint": "Epoch_52",
+    "bias": 1.0,
+    "text": "The pilot ran for six weeks starting the first week of the term and ending just before final exams began.",
+    "checks": [
+      "pilot",
+      "six",
+      "weeks",
+      "term",
+      "final",
+      "exams"
+    ],
+    "strike_word": null,
+    "correct_word_line": null
+  },
+  {
+    "file": "p13_ratio__Epoch_52__b1.0.png",
+    "page_id": "p13_ratio",
+    "checkpoint": "Epoch_52",
+    "bias": 1.0,
+    "text": "Roughly one in four samples failed the quality check on the second pass through the pipeline.",
+    "checks": [
+      "Roughly",
+      "one",
+      "four",
+      "failed",
+      "quality",
+      "second",
+      "pipeline"
+    ],
+    "strike_word": null,
+    "correct_word_line": null
+  },
+  {
+    "file": "p14_negnum__Epoch_52__b1.0.png",
+    "page_id": "p14_negnum",
+    "checkpoint": "Epoch_52",
+    "bias": 1.0,
+    "text": "The residual mean was close to zero point one, well within the tolerance band set for this experiment.",
+    "checks": [
+      "residual",
+      "mean",
+      "zero",
+      "point",
+      "one",
+      "tolerance"
+    ],
+    "strike_word": null,
+    "correct_word_line": null
+  },
+  {
+    "file": "p01_r2__Epoch_56__b0.5.png",
+    "page_id": "p01_r2",
+    "checkpoint": "Epoch_56",
+    "bias": 0.5,
+    "text": "The model reached an in sample R2 of point eight nine on the training set. Relationship to R2 on held out data was weaker.",
+    "checks": [
+      "in",
+      "sample",
+      "R2",
+      "point",
+      "eight",
+      "nine",
+      "training",
+      "Relationship",
+      "held",
+      "out"
+    ],
+    "strike_word": null,
+    "correct_word_line": null
+  },
+  {
+    "file": "p02_strike__Epoch_56__b0.5.png",
+    "page_id": "p02_strike",
+    "checkpoint": "Epoch_56",
+    "bias": 0.5,
+    "text": "Best model had the lowest R3 score among all candidates tested. Second best model kept the highest R2 instead.",
+    "checks": [
+      "lowest",
+      "highest",
+      "R2",
+      "candidates",
+      "Second",
+      "best"
+    ],
+    "strike_word": "R3",
+    "correct_word_line": "highest R2"
+  },
+  {
+    "file": "p03_split__Epoch_56__b0.5.png",
+    "page_id": "p03_split",
+    "checkpoint": "Epoch_56",
+    "bias": 0.5,
+    "text": "Data was split eighty twenty between training and test sets. This ratio was chosen after several trial runs.",
+    "checks": [
+      "eighty",
+      "twenty",
+      "training",
+      "test",
+      "ratio",
+      "trial"
+    ],
+    "strike_word": null,
+    "correct_word_line": null
+  },
+  {
+    "file": "p04_kfold__Epoch_56__b0.5.png",
+    "page_id": "p04_kfold",
+    "checkpoint": "Epoch_56",
+    "bias": 0.5,
+    "text": "Cross validation used k minus one folds for training and one fold held out. We tried k equal to five here.",
+    "checks": [
+      "Cross",
+      "validation",
+      "k",
+      "minus",
+      "one",
+      "folds",
+      "five"
+    ],
+    "strike_word": null,
+    "correct_word_line": null
+  },
+  {
+    "file": "p05_obs__Epoch_56__b0.5.png",
+    "page_id": "p05_obs",
+    "checkpoint": "Epoch_56",
+    "bias": 0.5,
+    "text": "Nine hundred observations were collected in total. Ten fold validation was applied across the whole set.",
+    "checks": [
+      "Nine",
+      "hundred",
+      "observations",
+      "Ten",
+      "fold",
+      "validation"
+    ],
+    "strike_word": null,
+    "correct_word_line": null
+  },
+  {
+    "file": "p06_range__Epoch_56__b0.5.png",
+    "page_id": "p06_range",
+    "checkpoint": "Epoch_56",
+    "bias": 0.5,
+    "text": "Accuracy ranged from sixty percent to eighty percent across the folds. Variance was higher on smaller folds.",
+    "checks": [
+      "Accuracy",
+      "sixty",
+      "percent",
+      "eighty",
+      "Variance",
+      "folds"
+    ],
+    "strike_word": null,
+    "correct_word_line": null
+  },
+  {
+    "file": "p07_serial__Epoch_56__b0.5.png",
+    "page_id": "p07_serial",
+    "checkpoint": "Epoch_56",
+    "bias": 0.5,
+    "text": "Sample serial code QX 77419 BD2 was recorded on row twelve of the log sheet for this run.",
+    "checks": [
+      "QX",
+      "77419",
+      "BD2",
+      "row",
+      "twelve",
+      "log"
+    ],
+    "strike_word": null,
+    "correct_word_line": null
+  },
+  {
+    "file": "p08_labels__Epoch_56__b0.5.png",
+    "page_id": "p08_labels",
+    "checkpoint": "Epoch_56",
+    "bias": 0.5,
+    "text": "Label a marks the control group and label b marks the treatment group in this part of the study.",
+    "checks": [
+      "Label",
+      "control",
+      "group",
+      "treatment",
+      "study"
+    ],
+    "strike_word": null,
+    "correct_word_line": null
+  },
+  {
+    "file": "p09_count__Epoch_56__b0.5.png",
+    "page_id": "p09_count",
+    "checkpoint": "Epoch_56",
+    "bias": 0.5,
+    "text": "Count times n equals seven hundred twenty in the pooled sample across all three sites combined.",
+    "checks": [
+      "Count",
+      "seven",
+      "hundred",
+      "twenty",
+      "pooled",
+      "three",
+      "sites"
+    ],
+    "strike_word": null,
+    "correct_word_line": null
+  },
+  {
+    "file": "p10_typo__Epoch_56__b0.5.png",
+    "page_id": "p10_typo",
+    "checkpoint": "Epoch_56",
+    "bias": 0.5,
+    "text": "Total obsevations after cleaning dropped to eight hundred and fifty from the original nine hundred.",
+    "checks": [
+      "obsevations",
+      "eight",
+      "hundred",
+      "fifty",
+      "nine"
+    ],
+    "strike_word": null,
+    "correct_word_line": null
+  },
+  {
+    "file": "p11_strike2__Epoch_56__b0.5.png",
+    "page_id": "p11_strike2",
+    "checkpoint": "Epoch_56",
+    "bias": 0.5,
+    "text": "Draft result showed a failing grade for this batch. Final result after recount showed a passing grade.",
+    "checks": [
+      "Draft",
+      "Final",
+      "recount",
+      "passing",
+      "grade"
+    ],
+    "strike_word": "failing",
+    "correct_word_line": "passing grade"
+  },
+  {
+    "file": "p12_dates__Epoch_56__b0.5.png",
+    "page_id": "p12_dates",
+    "checkpoint": "Epoch_56",
+    "bias": 0.5,
+    "text": "The pilot ran for six weeks starting the first week of the term and ending just before final exams began.",
+    "checks": [
+      "pilot",
+      "six",
+      "weeks",
+      "term",
+      "final",
+      "exams"
+    ],
+    "strike_word": null,
+    "correct_word_line": null
+  },
+  {
+    "file": "p13_ratio__Epoch_56__b0.5.png",
+    "page_id": "p13_ratio",
+    "checkpoint": "Epoch_56",
+    "bias": 0.5,
+    "text": "Roughly one in four samples failed the quality check on the second pass through the pipeline.",
+    "checks": [
+      "Roughly",
+      "one",
+      "four",
+      "failed",
+      "quality",
+      "second",
+      "pipeline"
+    ],
+    "strike_word": null,
+    "correct_word_line": null
+  },
+  {
+    "file": "p14_negnum__Epoch_56__b0.5.png",
+    "page_id": "p14_negnum",
+    "checkpoint": "Epoch_56",
+    "bias": 0.5,
+    "text": "The residual mean was close to zero point one, well within the tolerance band set for this experiment.",
+    "checks": [
+      "residual",
+      "mean",
+      "zero",
+      "point",
+      "one",
+      "tolerance"
+    ],
+    "strike_word": null,
+    "correct_word_line": null
+  },
+  {
+    "file": "p01_r2__Epoch_56__b1.5.png",
+    "page_id": "p01_r2",
+    "checkpoint": "Epoch_56",
+    "bias": 1.5,
+    "text": "The model reached an in sample R2 of point eight nine on the training set. Relationship to R2 on held out data was weaker.",
+    "checks": [
+      "in",
+      "sample",
+      "R2",
+      "point",
+      "eight",
+      "nine",
+      "training",
+      "Relationship",
+      "held",
+      "out"
+    ],
+    "strike_word": null,
+    "correct_word_line": null
+  },
+  {
+    "file": "p02_strike__Epoch_56__b1.5.png",
+    "page_id": "p02_strike",
+    "checkpoint": "Epoch_56",
+    "bias": 1.5,
+    "text": "Best model had the lowest R3 score among all candidates tested. Second best model kept the highest R2 instead.",
+    "checks": [
+      "lowest",
+      "highest",
+      "R2",
+      "candidates",
+      "Second",
+      "best"
+    ],
+    "strike_word": "R3",
+    "correct_word_line": "highest R2"
+  },
+  {
+    "file": "p03_split__Epoch_56__b1.5.png",
+    "page_id": "p03_split",
+    "checkpoint": "Epoch_56",
+    "bias": 1.5,
+    "text": "Data was split eighty twenty between training and test sets. This ratio was chosen after several trial runs.",
+    "checks": [
+      "eighty",
+      "twenty",
+      "training",
+      "test",
+      "ratio",
+      "trial"
+    ],
+    "strike_word": null,
+    "correct_word_line": null
+  },
+  {
+    "file": "p04_kfold__Epoch_56__b1.5.png",
+    "page_id": "p04_kfold",
+    "checkpoint": "Epoch_56",
+    "bias": 1.5,
+    "text": "Cross validation used k minus one folds for training and one fold held out. We tried k equal to five here.",
+    "checks": [
+      "Cross",
+      "validation",
+      "k",
+      "minus",
+      "one",
+      "folds",
+      "five"
+    ],
+    "strike_word": null,
+    "correct_word_line": null
+  },
+  {
+    "file": "p05_obs__Epoch_56__b1.5.png",
+    "page_id": "p05_obs",
+    "checkpoint": "Epoch_56",
+    "bias": 1.5,
+    "text": "Nine hundred observations were collected in total. Ten fold validation was applied across the whole set.",
+    "checks": [
+      "Nine",
+      "hundred",
+      "observations",
+      "Ten",
+      "fold",
+      "validation"
+    ],
+    "strike_word": null,
+    "correct_word_line": null
+  },
+  {
+    "file": "p06_range__Epoch_56__b1.5.png",
+    "page_id": "p06_range",
+    "checkpoint": "Epoch_56",
+    "bias": 1.5,
+    "text": "Accuracy ranged from sixty percent to eighty percent across the folds. Variance was higher on smaller folds.",
+    "checks": [
+      "Accuracy",
+      "sixty",
+      "percent",
+      "eighty",
+      "Variance",
+      "folds"
+    ],
+    "strike_word": null,
+    "correct_word_line": null
+  },
+  {
+    "file": "p07_serial__Epoch_56__b1.5.png",
+    "page_id": "p07_serial",
+    "checkpoint": "Epoch_56",
+    "bias": 1.5,
+    "text": "Sample serial code QX 77419 BD2 was recorded on row twelve of the log sheet for this run.",
+    "checks": [
+      "QX",
+      "77419",
+      "BD2",
+      "row",
+      "twelve",
+      "log"
+    ],
+    "strike_word": null,
+    "correct_word_line": null
+  },
+  {
+    "file": "p08_labels__Epoch_56__b1.5.png",
+    "page_id": "p08_labels",
+    "checkpoint": "Epoch_56",
+    "bias": 1.5,
+    "text": "Label a marks the control group and label b marks the treatment group in this part of the study.",
+    "checks": [
+      "Label",
+      "control",
+      "group",
+      "treatment",
+      "study"
+    ],
+    "strike_word": null,
+    "correct_word_line": null
+  },
+  {
+    "file": "p09_count__Epoch_56__b1.5.png",
+    "page_id": "p09_count",
+    "checkpoint": "Epoch_56",
+    "bias": 1.5,
+    "text": "Count times n equals seven hundred twenty in the pooled sample across all three sites combined.",
+    "checks": [
+      "Count",
+      "seven",
+      "hundred",
+      "twenty",
+      "pooled",
+      "three",
+      "sites"
+    ],
+    "strike_word": null,
+    "correct_word_line": null
+  },
+  {
+    "file": "p10_typo__Epoch_56__b1.5.png",
+    "page_id": "p10_typo",
+    "checkpoint": "Epoch_56",
+    "bias": 1.5,
+    "text": "Total obsevations after cleaning dropped to eight hundred and fifty from the original nine hundred.",
+    "checks": [
+      "obsevations",
+      "eight",
+      "hundred",
+      "fifty",
+      "nine"
+    ],
+    "strike_word": null,
+    "correct_word_line": null
+  },
+  {
+    "file": "p11_strike2__Epoch_56__b1.5.png",
+    "page_id": "p11_strike2",
+    "checkpoint": "Epoch_56",
+    "bias": 1.5,
+    "text": "Draft result showed a failing grade for this batch. Final result after recount showed a passing grade.",
+    "checks": [
+      "Draft",
+      "Final",
+      "recount",
+      "passing",
+      "grade"
+    ],
+    "strike_word": "failing",
+    "correct_word_line": "passing grade"
+  },
+  {
+    "file": "p12_dates__Epoch_56__b1.5.png",
+    "page_id": "p12_dates",
+    "checkpoint": "Epoch_56",
+    "bias": 1.5,
+    "text": "The pilot ran for six weeks starting the first week of the term and ending just before final exams began.",
+    "checks": [
+      "pilot",
+      "six",
+      "weeks",
+      "term",
+      "final",
+      "exams"
+    ],
+    "strike_word": null,
+    "correct_word_line": null
+  },
+  {
+    "file": "p13_ratio__Epoch_56__b1.5.png",
+    "page_id": "p13_ratio",
+    "checkpoint": "Epoch_56",
+    "bias": 1.5,
+    "text": "Roughly one in four samples failed the quality check on the second pass through the pipeline.",
+    "checks": [
+      "Roughly",
+      "one",
+      "four",
+      "failed",
+      "quality",
+      "second",
+      "pipeline"
+    ],
+    "strike_word": null,
+    "correct_word_line": null
+  },
+  {
+    "file": "p14_negnum__Epoch_56__b1.5.png",
+    "page_id": "p14_negnum",
+    "checkpoint": "Epoch_56",
+    "bias": 1.5,
+    "text": "The residual mean was close to zero point one, well within the tolerance band set for this experiment.",
+    "checks": [
+      "residual",
+      "mean",
+      "zero",
+      "point",
+      "one",
+      "tolerance"
+    ],
+    "strike_word": null,
+    "correct_word_line": null
+  }
+]

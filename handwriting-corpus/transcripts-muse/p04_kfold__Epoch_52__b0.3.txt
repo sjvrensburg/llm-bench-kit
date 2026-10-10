@@ -1,0 +1,5 @@
+Cross validation used k minus
+tue folds for training and
+hne fold held out. We
+tried k equal to five
+nere

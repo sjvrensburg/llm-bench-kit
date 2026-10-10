@@ -1,0 +1,4 @@
+Best model in d
+R3 score among the candidates
+tested. Second best model kept
+the highest R2 instead

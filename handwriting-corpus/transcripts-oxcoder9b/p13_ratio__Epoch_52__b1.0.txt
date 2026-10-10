@@ -1,0 +1,4 @@
+Roughly one in four samples
+failed the quality check an
+/
+pipeline

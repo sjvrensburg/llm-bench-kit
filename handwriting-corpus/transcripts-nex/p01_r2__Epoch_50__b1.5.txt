@@ -1,0 +1,5 @@
+The model reached an R
+Sample R1 of p pnt
+nine on the training set.
+Relationship to R2 on held
+out data this weaker

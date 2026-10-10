@@ -1,0 +1,5 @@
+ross validation used k minus
+une folds for training and
+//
+tried k equal to five
+here

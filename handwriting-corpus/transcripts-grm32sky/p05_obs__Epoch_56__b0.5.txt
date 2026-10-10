@@ -1,0 +1,4 @@
+Nine hundred observations were collected
+in total. ten fold validation
+was applied across the whole
+set

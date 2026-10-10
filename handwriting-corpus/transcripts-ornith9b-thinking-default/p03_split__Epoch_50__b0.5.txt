@@ -1,0 +1,4 @@
+split was pre eighty twenty
+between training n id test sets.
+This ratio was chosen after
+everal trial runs

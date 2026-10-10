@@ -1,0 +1,169 @@
+[TRUNCATED-DURING-THINKING, showing reasoning_content]
+We need answer transcription only. Need inspect image. It's handwritten vertical page. Need transcribe exactly as written, no correction. Need identify text. Let's zoom mentally. Image shows scribbles maybe "you" at top? Then "R" and "e" maybe? Middle "m" and "g"? Lower "you" and "you"? Need be careful.
+
+User asks attached image of page. Need transcribe text exactly. We can include uncertain? They want only word for word transcription. Need not infer. We need parse handwriting.
+
+Let's analyze image. It is a tall white page with black marker scribbles. At top left, looks like "you" maybe "yeu"? There is a large curved line down to right, then a small "R" and a loop "e" at right. Middle: left "m" maybe, then a long line down, then a loop "g" or "y"? Lower: left "u" maybe, then long line down to "you" at lower right. Bottom: "you" at left and "you" at bottom? Hmm.
+
+Maybe this is a page of repeated "you" with lines? Let's inspect.
+
+Image dimensions 1024x2048. Top: at x~180 y~100, handwritten "you" maybe. It has first letter y with descender? Actually top word: "you" maybe: y loop, o, u. Then a long line from after word curves down to right, ending near x~500 y~420. To right of line at y~350 is "R" maybe, and below y~480 is "e" in a loop. Could be "R e" or "R" and "e" separate.
+
+Middle: at x~190 y~620, "m" maybe. Then long line down to x~400 y~900, then a loop at x~300 y~980 maybe "g" or "y". Could be "m" and "g".
+
+Lower: at x~190 y~1120, "u" maybe. Then long line down to x~400 y~1400, then word "you" at x~400 y~1450. Bottom: at x~210 y~1650, "you"; at x~300 y~1800, "you" maybe.
+
+Maybe the page is a child's writing? It might be "you" repeated with lines connecting? The prompt says transcribe text exactly. We need output only transcription. Could include line breaks.
+
+Let's zoom mentally. Top word: first letter looks like "y" with loop, second maybe "e" or "o", third maybe "u". It says "you". The top line after word is a long stroke, not text? It might be a line connecting to "R" and "e". The "R" is clear. The "e" is clear. Middle "m" clear? It looks like "m" at x~200 y~620. Then a long line down, then a loop at x~300 y~980 maybe "g" or "y". Could be "m" and "g".
+
+Lower: at x~190 y~1120, "u" maybe. Then long line down to x~400 y~1400, then word "you" at x~400 y~1450. Bottom: at x~210 y~1650, "you"; at x~300 y~1800, "you" maybe.
+
+Maybe the page is a child's writing? It might be "you" repeated with lines connecting? The prompt says transcribe text exactly. We need output only transcription. Could include line breaks.
+
+Let's inspect each cluster:
+
+Top cluster:
+- At top left, word: first letter maybe "y" (downstroke with loop), second letter maybe "e" (small loop), third maybe "u" (two vertical strokes). It could be "you".
+- To right, a large curved line from top word down to a horizontal stroke at y~420. This is not text? It might be a line connecting to "R" and "e". The "R" is clear. The "e" is clear.
+- The "R" at x~650 y~350: looks like capital R? It has vertical stem and loop. The "e" at x~650 y~480: loop with small mark.
+
+Middle cluster:
+- At x~200 y~620, "m" maybe. It has two humps.
+- Long line down to x~400 y~900, then a loop at x~300 y~980 maybe "g" or "y". Could be "m" and "g".
+- The loop at x~300 y~980: looks like "g" maybe with descender? It has a loop and a tail. Could be "g".
+- There is a small squiggle at x~400 y~980 maybe part of "g".
+
+Lower cluster:
+- At x~200 y~1120, "u" maybe. It has two vertical strokes and a curve.
+- Long line down to x~400 y~1400, then word "you" at x~400 y~1450.
+- Bottom cluster: at x~210 y~1650, "you"; at x~300 y~1800, "you" maybe.
+
+Maybe the page is a child's writing? It might be "you" repeated with lines connecting? The prompt says transcribe text exactly. We need output only transcription. Could include line breaks.
+
+Let's inspect each cluster:
+
+Top cluster:
+- At top left, word: first letter maybe "y" with loop, second maybe "e" or "o", third maybe "u". It says "you".
+- To right, a large curved line from top word down to a horizontal stroke at y~420. This is not text? It might be a line connecting to "R" and "e". The "R" is clear. The "e" is clear.
+- The "R" at x~650 y~350: looks like capital R? It has vertical stem and loop. The "e" at x~650 y~480: loop with small mark.
+
+Middle cluster:
+- At x~200 y~620, "m" maybe. It has two humps.
+- Long line down to x~400 y~900, then a loop at x~300 y~980 maybe "g" or "y". Could be "m" and "g".
+- The loop at x~300 y~980: looks like "g" maybe with descender? It has a loop and a tail. Could be "g".
+- There is a small squiggle at x~400 y~980 maybe part of "g".
+
+Lower cluster:
+- At x~200 y~1120, "u" maybe. It has two vertical strokes and a curve.
+- Long line down to x~400 y~1400, then word "you" at x~400 y~1450.
+- Bottom cluster: at x~210 y~1650, "you"; at x~300 y~1800, "you" maybe.
+
+Maybe the page is a child's writing? It might be "you" repeated with lines connecting? The prompt says transcribe text exactly. We need output only transcription. Could include line breaks.
+
+Let's inspect each cluster:
+
+Top cluster:
+- At top left, word: first letter maybe "y" with loop, second maybe "e" or "o", third maybe "u". It says "you".
+- To right, a large curved line from top word down to a horizontal stroke at y~420. This is not text? It might be a line connecting to "R" and "e". The "R" is clear. The "e" is clear.
+- The "R" at x~650 y~350: looks like capital R? It has vertical stem and loop. The "e" at x~650 y~480: loop with small mark.
+
+Middle cluster:
+- At x~200 y~620, "m" maybe. It has two humps.
+- Long line down to x~400 y~900, then a loop at x~300 y~980 maybe "g" or "y". Could be "m" and "g".
+- The loop at x~300 y~980: looks like "g" maybe with descender? It has a loop and a tail. Could be "g".
+- There is a small squiggle at x~400 y~980 maybe part of "g".
+
+Lower cluster:
+- At x~200 y~1120, "u" maybe. It has two vertical strokes and a curve.
+- Long line down to x~400 y~1400, then word "you" at x~400 y~1450.
+- Bottom cluster: at x~210 y~1650, "you"; at x~300 y~1800, "you" maybe.
+
+Maybe the page is a child's writing? It might be "you" repeated with lines connecting? The prompt says transcribe text exactly. We need output only transcription. Could include line breaks.
+
+Let's inspect each cluster:
+
+Top cluster:
+- At top left, word: first letter maybe "y" with loop, second maybe "e" or "o", third maybe "u". It says "you".
+- To right, a large curved line from top word down to a horizontal stroke at y~420. This is not text? It might be a line connecting to "R" and "e". The "R" is clear. The "e" is clear.
+- The "R" at x~650 y~350: looks like capital R? It has vertical stem and loop. The "e" at x~650 y~480: loop with small mark.
+
+Middle cluster:
+- At x~200 y~620, "m" maybe. It has two humps.
+- Long line down to x~400 y~900, then a loop at x~300 y~980 maybe "g" or "y". Could be "m" and "g".
+- The loop at x~300 y~980: looks like "g" maybe with descender? It has a loop and a tail. Could be "g".
+- There is a small squiggle at x~400 y~980 maybe part of "g".
+
+Lower cluster:
+- At x~200 y~1120, "u" maybe. It has two vertical strokes and a curve.
+- Long line down to x~400 y~1400, then word "you" at x~400 y~1450.
+- Bottom cluster: at x~210 y~1650, "you"; at x~300 y~1800, "you" maybe.
+
+Maybe the page is a child's writing? It might be "you" repeated with lines connecting? The prompt says transcribe text exactly. We need output only transcription. Could include line breaks.
+
+Let's inspect each cluster:
+
+Top cluster:
+- At top left, word: first letter maybe "y" with loop, second maybe "e" or "o", third maybe "u". It says "you".
+- To right, a large curved line from top word down to a horizontal stroke at y~420. This is not text? It might be a line connecting to "R" and "e". The "R" is clear. The "e" is clear.
+- The "R" at x~650 y~350: looks like capital R? It has vertical stem and loop. The "e" at x~650 y~480: loop with small mark.
+
+Middle cluster:
+- At x~200 y~620, "m" maybe. It has two humps.
+- Long line down to x~400 y~900, then a loop at x~300 y~980 maybe "g" or "y". Could be "m" and "g".
+- The loop at x~300 y~980: looks like "g" maybe with descender? It has a loop and a tail. Could be "g".
+- There is a small squiggle at x~400 y~980 maybe part of "g".
+
+Lower cluster:
+- At x~200 y~1120, "u" maybe. It has two vertical strokes and a curve.
+- Long line down to x~400 y~1400, then word "you" at x~400 y~1450.
+- Bottom cluster: at x~210 y~1650, "you"; at x~300 y~1800, "you" maybe.
+
+Maybe the page is a child's writing? It might be "you" repeated with lines connecting? The prompt says transcribe text exactly. We need output only transcription. Could include line breaks.
+
+Let's inspect each cluster:
+
+Top cluster:
+- At top left, word: first letter maybe "y" with loop, second maybe "e" or "o", third maybe "u". It says "you".
+- To right, a large curved line from top word down to a horizontal stroke at y~420. This is not text? It might be a line connecting to "R" and "e". The "R" is clear. The "e" is clear.
+- The "R" at x~650 y~350: looks like capital R? It has vertical stem and loop. The "e" at x~650 y~480: loop with small mark.
+
+Middle cluster:
+- At x~200 y~620, "m" maybe. It has two humps.
+- Long line down to x~400 y~900, then a loop at x~300 y~980 maybe "g" or "y". Could be "m" and "g".
+- The loop at x~300 y~980: looks like "g" maybe with descender? It has a loop and a tail. Could be "g".
+- There is a small squiggle at x~400 y~980 maybe part of "g".
+
+Lower cluster:
+- At x~200 y~1120, "u" maybe. It has two vertical strokes and a curve.
+- Long line down to x~400 y~1400, then word "you" at x~400 y~1450.
+- Bottom cluster: at x~210 y~1650, "you"; at x~300 y~1800, "you" maybe.
+
+Maybe the page is a child's writing? It might be "you" repeated with lines connecting? The prompt says transcribe text exactly. We need output only transcription. Could include line breaks.
+
+Let's inspect each cluster:
+
+Top cluster:
+- At top left, word: first letter maybe "y" with loop, second maybe "e" or "o", third maybe "u". It says "you".
+- To right, a large curved line from top word down to a horizontal stroke at y~420. This is not text? It might be a line connecting to "R" and "e". The "R" is clear. The "e" is clear.
+- The "R" at x~650 y~350: looks like capital R? It has vertical stem and loop. The "e" at x~650 y~480: loop with small mark.
+
+Middle cluster:
+- At x~200 y~620, "m" maybe. It has two humps.
+- Long line down to x~400 y~900, then a loop at x~300 y~980 maybe "g" or "y". Could be "m" and "g".
+- The loop at x~300 y~980: looks like "g" maybe with descender? It has a loop and a tail. Could be "g".
+- There is a small squiggle at x~400 y~980 maybe part of "g".
+
+Lower cluster:
+- At x~200 y~1120, "u" maybe. It has two vertical strokes and a curve.
+- Long line down to x~400 y~1400, then word "you" at x~400 y~1450.
+- Bottom cluster: at x~210 y~1650, "you"; at x~300 y~1800, "you" maybe.
+
+Maybe the page is a child's writing? It might be "you" repeated with lines connecting? The prompt says transcribe text exactly. We need output only transcription. Could include line breaks.
+
+Let's inspect each cluster:
+
+Top cluster:
+- At top left, word: first letter maybe "y" with loop, second maybe "e" or "o", third maybe "u". It says "you".
+- To right, a large curved line from top word down to a horizontal stroke at y~420. This is not text? It might be a line connecting to "R" and "e". The "R" is clear. The "e" is clear.
+- The "R" at x~650 y~3

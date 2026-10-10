@@ -1,0 +1,1 @@
+Roughly one in four samples failed the quality check on the second pass through the pipeline

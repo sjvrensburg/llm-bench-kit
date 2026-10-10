@@ -1,0 +1,5 @@
+The model reached an in
+Sample R2rf pointing
+line on the training set.
+Relationship to R2 on held
+out data was weaker

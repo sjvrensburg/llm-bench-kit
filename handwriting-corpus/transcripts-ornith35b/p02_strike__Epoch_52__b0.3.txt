@@ -1,0 +1,4 @@
+Best model had the lowest
+~~R3 score among all candidates~~
+tested. Second best made keyt
+nn highest R2 instead

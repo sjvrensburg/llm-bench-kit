@@ -1,0 +1,4 @@
+The residual mean was clos.
+to zero point one, well
+within the tolerance band se 1
+for this experiment

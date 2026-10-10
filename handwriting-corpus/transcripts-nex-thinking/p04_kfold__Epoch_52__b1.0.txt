@@ -1,0 +1,5 @@
+Cross validation used k minus  
+One folds for training and  
+One fold held out. We  
+tried k equal to five  
+here

@@ -1,0 +1,30 @@
+[TRUNCATED-DURING-THINKING, showing reasoning_content]
+Transcribe the text in the attached image of a page, exactly as written. Provide only the word for word transcription and do not correct, normalise, or infer meaning. If any text is struck through, transcribe it anyway and mark it clearly as struck through.
+
+The image shows scribbles, looks like maybe a drawing of a face? Or maybe it's text? The scribbles look like maybe "??". Could be an optical illusion? The top scribble maybe forms a face? Wait maybe it's a negative space? The drawing is a line that maybe forms a silhouette? Could be the classic "two faces" illusion? Or maybe it's handwriting that is illegible.
+
+Maybe the image is of a line drawing that is actually text when viewed? Could be the scribble is actually the word "??". Might be a known illusion: the scribble is actually a face profile? The top line goes down and then to right. Lower left there are two small scribbles.
+
+Maybe the image is blank with some doodles, no text. So transcription is empty.
+
+The instruction: Provide only the word for word transcription and do not correct... If any text is struck through...
+
+Probably there is no text, just doodles. So output nothing? Maybe output empty.
+
+Could be the scribbles form the word "??". Let's try to see: top left squiggle maybe looks like "??". Might be "??". Hmm.
+
+Alternative interpretation: The image is a "ambiguous image" where the line is the outline of a face? The line at top left goes down, maybe it's a profile of a person? The lower left two scribbles maybe are also profiles? Could be the classic "my wife and my mother-in-law" illusion.
+
+Maybe the user expects transcription of nothing. So output nothing or say no text.
+
+I'll respond with no transcription found. But instruction says provide only word for word transcription. Might be empty.
+
+I'll output nothing.
+
+Probably safe to say: [No discernible text].
+
+But instruction says provide only the word for word transcription. Hmm.
+
+Maybe the scribbles are actually the word "??". Could be the drawing is of the word "??". Let's assume no text.
+
+I'll output empty.

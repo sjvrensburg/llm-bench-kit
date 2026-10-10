@@ -1,0 +1,12 @@
+[TRUNCATED-DURING-THINKING, showing reasoning_content]
+Transcribe the text in the attached image of a page, exactly as written. Provide only the word for word transcription and do not correct, normalise, or infer meaning. If any text is struck through, transcribe it anyway and mark it clearly as struck through.
+
+The image shows lines, no text? There's a thin wavy line crossing a thick line at top. No text. Maybe it's a drawing. So transcription is empty? Might be no text.
+
+The instruction says transcribe text. There is no text. So output nothing? Maybe output empty.
+
+Could be the image is of a page with no text. So transcription is empty.
+
+Probably respond with nothing or say no text.
+
+I'll output nothing.

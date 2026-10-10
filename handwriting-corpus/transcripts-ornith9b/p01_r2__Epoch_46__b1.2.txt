@@ -1,0 +1,5 @@
+The model reached an in
+sample R² of point height l
+ine on the training set.
+Relationship to R² on l
+ift data was weaker

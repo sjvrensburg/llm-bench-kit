@@ -1,0 +1,4 @@
+The residual mean was clean
+16.670 point one, well
+within the tolerance band set
+for this experiment

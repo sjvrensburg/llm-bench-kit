@@ -1,0 +1,4 @@
+Best model had the bwesl
+~~x3 score among all candidates~~
+tested. Second best model kept
+the highest 22 instead

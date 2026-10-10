@@ -1,0 +1,4 @@
+The residual mean was close
+105
+within the tolerance bound set
+for this experiment.

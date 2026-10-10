@@ -1,0 +1,1 @@
+The residual mean was close to 300 point one, well within the tolerance band set for this.

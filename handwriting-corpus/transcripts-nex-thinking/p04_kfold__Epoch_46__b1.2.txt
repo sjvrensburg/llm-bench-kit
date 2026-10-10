@@ -1,0 +1,9 @@
+Cross validation use
+
+One folds for training and
+
+One fold
+
+tried k cq
+
+here

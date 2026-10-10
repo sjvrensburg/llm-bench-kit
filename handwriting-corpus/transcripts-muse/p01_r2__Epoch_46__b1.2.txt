@@ -1,0 +1,5 @@
+the model reached an in
+sample R^2 of poin teigh t
+line on the training set.
+Relationshp to R2 on /
+lurt data was weaker

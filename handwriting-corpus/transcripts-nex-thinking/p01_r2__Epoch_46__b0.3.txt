@@ -1,0 +1,5 @@
+The model reached an in  
+Sample R2 of point eight  
+line on the training set.  
+Relationship to R2 on held  
+but data was weaker

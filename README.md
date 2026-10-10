@@ -18,6 +18,8 @@ they are kept as provenance and are not public.
 | `bench-parallel-depth.py` | Whether `--parallel > 1` helps at 32K–130K depth (four fixed arms, ~10 min) | `BENCH_URL=http://127.0.0.1:8088 python3 bench-parallel-depth.py` | pitfall #34 |
 | `code-eval.py` | Code generation: tasks with hidden tests run in a subprocess; `--selftest` checks the reference solutions offline | `python3 code-eval.py <base>/v1 <model> [--think\|--no-think]` | `docs/04` "Flash-Next GSQ-RCO Coder" |
 | `bench-vlm.py` | VLM flag A/Bs (prefill/decode/GTT at depth) and multi-image recall at depth. Needs Pillow | `python3 bench-vlm.py text --port 8095 --depths 0 32768` / `vision --port 8095 --images 6 --depth 60000` | `docs/04` vision sections, pitfall #36 |
+| `prose-check.py` | Open-ended prose quality and whether a plain "be concise" system prompt shortens answers (5 prompts, each with and without it) | `python3 prose-check.py <port> [--label NAME]` | `docs/04` "Prose quality and terseness" |
+| `handwriting-corpus/` | VLM transcription of 112 synthetic handwritten pages (14 texts × 4 checkpoints × biases, then degraded), scored on ground-truth tokens; transcripts from each model run are kept | `python3 handwriting-corpus/transcribe.py <port> <out_dir>`, then `python3 handwriting-corpus/score.py <out_dir>` | `docs/04` "Handwriting/degraded-text corpus" |
 
 ## Environment overrides
 
@@ -37,3 +39,12 @@ Defaults are the values these were written against on the EVO-X3, so a run there
 halo-prep. They were named after the agent they first scored (Hermes, retired 2026-09-24),
 not because they contain Hermes code. halo-prep's docs still use the old names. The
 `--stub hermes` value of `pi-tool-harness.py` keeps its name: it is a recorded condition.
+
+## Handwriting corpus
+
+`handwriting-corpus/` came from handwriting-bench, a local clone of
+[pytorch-handwriting-synthesis-toolkit](https://github.com/X-rayLaser/pytorch-handwriting-synthesis-toolkit)
+(MIT), on 2026-10-10. The rendered pages (`clean/`, `degraded/`) are committed, so transcribing and scoring need
+nothing else. Regenerating them (`gen_corpus.py`, `render_strike.py`) needs a checkout of that toolkit with its
+pretrained `checkpoints/`, with `HANDWRITING_SYNTH_REPO` pointing at it. `prose-check.py` was
+`prose_check.py` in the same clone.

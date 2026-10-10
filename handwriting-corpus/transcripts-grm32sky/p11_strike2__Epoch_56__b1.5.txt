@@ -1,0 +1,6 @@
+<response>
+~~Draft result showed a failing~~
+1 grade for this batch. Final
+t result after recount showed a
+r passing grade
+</response>

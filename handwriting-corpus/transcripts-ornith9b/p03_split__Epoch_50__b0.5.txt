@@ -1,0 +1,1 @@
+The split was 80:20 between training and test sets. This ratio was chosen after several trial runs

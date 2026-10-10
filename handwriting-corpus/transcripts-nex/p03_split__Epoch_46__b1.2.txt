@@ -1,0 +1,7 @@
+Data was split eighty twenty
+
+between training and test sets.
+
+This ratio was chosen after
+
+several trial runs
